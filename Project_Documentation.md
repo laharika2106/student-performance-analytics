@@ -77,8 +77,3 @@ The project successfully demonstrated automated student performance analysis, gr
 ## 10. GitHub Repository
 
 https://github.com/laharika2106/student-performance-analytics
-## 9. Challenges and learning
-[Describe a real issue you encountered and how you solved it. Explain what you learned about NumPy and Pandas.]
-
-## 10. GitHub repository
-[Paste your repository URL after uploading.]
